@@ -4,4 +4,4 @@ Webová aplikaci pro vytváření tabulek a grafů. /vytváření, dekorativní 
       -uživatelé
       
 
-Asi přes chart.io (https://simpleisbetterthancomplex.com/tutorial/2020/01/19/how-to-use-chart-js-with-django.html)
+Asi přes chart.js (https://simpleisbetterthancomplex.com/tutorial/2020/01/19/how-to-use-chart-js-with-django.html)
