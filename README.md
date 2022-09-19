@@ -8,3 +8,5 @@ Grafy přes chart.js (https://simpleisbetterthancomplex.com/tutorial/2020/01/19/
 
 
 ****Naučit se s githubem!!! https://docs.github.com/en/get-started/quickstart/hello-world****
+
+(Přemýšet jestli django vůbec potřebuju, nyní by to bylo jenom pro přihlášení uživatelů)
