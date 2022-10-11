@@ -1,6 +1,6 @@
-Webová aplikaci pro vytváření tabulek a grafů. /vytváření, dekorativní prvky, stahování
+Webová aplikaci pro vytváření tabulek a grafů. /vytváření, dekorativní prvky
       
-      -upravování existujících tabulek importovaných z excelu
+      -konvertovat canvas do obrázku + stažení
       -uživatelé
       
 
