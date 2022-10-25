@@ -9,4 +9,4 @@ Grafy přes chart.js (https://simpleisbetterthancomplex.com/tutorial/2020/01/19/
 
 ****Naučit se s githubem!!! https://docs.github.com/en/get-started/quickstart/hello-world****
 
-Django-cms: https://docs.django-cms.org/en/latest/introduction/01-install.html
+https://www.chartjs.org/docs/latest/samples/other-charts/doughnut.html
