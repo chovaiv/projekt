@@ -1,12 +1,4 @@
-Webová aplikaci pro vytváření tabulek a grafů. /vytváření, dekorativní prvky
-      
-      -konvertovat canvas do obrázku + stažení
-      -uživatelé
-      
+https://googlechrome.github.io/devtools-samples/debug-js/get-started
 
-Grafy přes chart.js (https://simpleisbetterthancomplex.com/tutorial/2020/01/19/how-to-use-chart-js-with-django.html)
-
-
-****Naučit se s githubem!!! https://docs.github.com/en/get-started/quickstart/hello-world****
-
-https://www.chartjs.org/docs/latest/samples/other-charts/doughnut.html
+místo django.view js?
+Login dropdown, tabulka jenom na přidání a úpravu hodnot, barva, transparency, border (checkbox + border color), velikost canvasu a png, login url
